@@ -5,10 +5,15 @@ A Youtube Player is included alongside video like, dislike, views count and desc
 
 ## Getting Started
 
-To use Youtube API, you need to provide your own API_KEY.
-Create a file named keys.dart in lib/utilities/ and add this line of code :
+### Step 1 : Open project files in your editor 
 
-const String API_KEY = 'YOUR_API_KEY';
+In VSCode, Dart (Extension) message will pop up to get necessary packages. Click "Get packages".
+
+### Step 2 : To use Youtube API, you need to provide your own API_KEY.
+
+Create folder "utilities" in lib/ and file "keys.dart" in lib/utilities/ and add this line of code :
+
+    const String API_KEY = 'YOUR_API_KEY';
 
 ## Screenshots
 
