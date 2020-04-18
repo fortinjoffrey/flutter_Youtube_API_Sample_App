@@ -1,9 +1,9 @@
 import 'dart:convert';
 import 'dart:io';
 import 'package:http/http.dart' as http;
-import 'package:sample_youtube_api_app/models/channel.dart';
-import 'package:sample_youtube_api_app/models/video.dart';
-import 'package:sample_youtube_api_app/utilities/keys.dart';
+import '../models/channel.dart';
+import '../models/video.dart';
+import '../utilities/keys.dart';
 
 class APIService {
   APIService._instantiate();

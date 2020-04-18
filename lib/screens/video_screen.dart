@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:sample_youtube_api_app/models/video.dart';
 import 'package:youtube_player_flutter/youtube_player_flutter.dart';
+import '../models/video.dart';
 
 class VideoScreen extends StatefulWidget {
   final Video video;

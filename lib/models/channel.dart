@@ -1,4 +1,4 @@
-import 'package:sample_youtube_api_app/models/video.dart';
+import 'video.dart';
 
 class Channel {
   final String id;
