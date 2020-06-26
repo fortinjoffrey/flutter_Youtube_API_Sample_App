@@ -15,12 +15,6 @@ Create folder "utilities" in lib/ and file "keys.dart" in lib/utilities/ and add
 
     const String API_KEY = 'YOUR_API_KEY';
 
-## Screenshots
+## Demo
 
-<div class="row">
-<img src="screenshots/1.png" width=45% align="middle">
-<img src="screenshots/2.png" width=45% align="middle">
-<img src="screenshots/3.png" width=45% align="middle">
-<img src="screenshots/4.png" width=45% align="middle">
-<img src="screenshots/5.png" width=45% align="middle">
-</div>
+<img src="demo/demo.gif" width="35%"/>
